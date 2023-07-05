@@ -202,7 +202,7 @@ h1 {
   align-items: center;
   flex-direction: column;
   background-color: rgba(219, 226, 239, 0.5);
-  padding: 0.8rem;
+  padding: 1rem;
   border-radius: 5px;
   width: 30%;
   max-width: 200px;
